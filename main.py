@@ -4,7 +4,7 @@ from operator import length_hint
 import random
 import string
 
-print('Hi, This is Simple Passwords Generator!')
+print('Hi, Welcome to Passwords Generator!')
 
 length = int(input('\nEnter the length of password: '))
 
