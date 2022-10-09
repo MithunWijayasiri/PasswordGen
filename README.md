@@ -1,3 +1,3 @@
 # Passwords Generator
 
-This is Random Passwords Generator. Everytime this genarates unique passwords.
+Every Time this generates unique passwords. Enjoy!
