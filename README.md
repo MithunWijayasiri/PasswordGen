@@ -8,9 +8,8 @@
 </p>
 
 <h3 align="left">Status</h3>
-• Initial Stage: Yes <br />
+• Initial Stage: No <br />
 • Main Functions Working: Yes <br />
-• Project Done: No
 
 <h3 align="left">Preview</h3>
 
