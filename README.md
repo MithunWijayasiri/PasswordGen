@@ -2,7 +2,7 @@
 
 <br />
 <p align="left">
-  <a href="https://github.com/MithunWijayasiri/2x4_Calculator">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=python,vscode" />
   </a>
 </p>
