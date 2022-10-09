@@ -1,7 +1,7 @@
 <h3 align="center">Random Passwords Genarator</h3>
 
 <br />
-<p align="center">
+<p align="left">
   <a href="https://github.com/MithunWijayasiri/2x4_Calculator">
     <img src="https://skillicons.dev/icons?i=python,vscode" />
   </a>
