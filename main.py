@@ -1,10 +1,10 @@
-# https://github.com/MithunWijayasiri/PasswordGenerator-1
+# https://github.com/MithunWijayasiri/PasswordsGenerator-python
 
 from operator import length_hint
 import random
 import string
 
-print('Hi, This is Simple Password Generator!')
+print('Hi, This is Simple Passwords Generator!')
 
 length = int(input('\nEnter the length of password: '))
 
@@ -13,13 +13,18 @@ upper = string.ascii_uppercase
 num = string.digits
 symbols = string.punctuation
 
-output = lower+upper+num+symbols
+
+output1 = lower+upper+num
+output2 = lower+upper+num+symbols
 
 #make random module to generate the password
-temp = random.sample(output, length)
+temp1 = random.sample(output1, length)
+temp2 = random.sample(output2, length)
 
 #join all characters together
-password ="".join(temp)
-print(password)
+password1 ="".join(temp1)
+password2 ="".join(temp2)
 
-print('Password Generated Successfully')
+print('\nPassword Generated Successfully.')
+print('> Simple: '+password1)
+print('> Strong: '+password2)
