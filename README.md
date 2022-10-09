@@ -14,4 +14,4 @@
 
 <h3 align="left">Preview</h3>
 
-![Screenshot 2022-10-09 231254](https://user-images.githubusercontent.com/104470671/194771729-5ee2c348-c8e3-4c72-b954-e3b25ca3175f.png)
+![image](https://user-images.githubusercontent.com/104470671/194772015-82197f01-6792-4aeb-bc69-9e9f92d42fbc.png)
