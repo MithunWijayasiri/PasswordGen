@@ -17,11 +17,11 @@ symbols = string.punctuation
 output1 = lower+upper+num
 output2 = lower+upper+num+symbols
 
-#make random module to generate the password
 if length < 1:
     print('Invalid Input!')
     
 else:
+    #make a random module to generate the password
     temp1 = random.sample(output1, length)
     temp2 = random.sample(output2, length)
     
